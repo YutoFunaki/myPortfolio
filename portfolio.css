@@ -1,0 +1,12 @@
+header {
+  width: 100%;
+  height: 70px;
+  background-color:rgb(62, 110, 134);
+}
+
+.top {
+  width: 100%;
+  height: 650px;
+  background-image: url(portfolio_img/illust10.JPG);
+  background-size: 50%;
+}
