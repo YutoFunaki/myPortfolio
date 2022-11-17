@@ -11,9 +11,16 @@ header {
   background-size: 50%;
   background-position: center;
   background-size: cover;
-  text-align: center;
   opacity: 0.5;
+  display: flex;
+  justify-content: center;
 }
+h1 {
+  font-size: 36px;
+  padding-top: 300px;
+  font-family: "メイリオ", "Meiryo", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", sans-serif;
+}
+
 
 main {
   width: 100%;
